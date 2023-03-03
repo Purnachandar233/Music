@@ -1,0 +1,54 @@
+
+{
+   "token":"OTI3MTk4MDY2NTQ3NzgxNjMy.GKFB1M.j2Is-BJviPKcN5IrxOEgjSKUWdwdXFFAJVl2j4",
+  
+  "mongo": "mongodb+srv://Nakkapurnachandar233:purna233@cluster0.up67h.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "prefix": "$",
+  "loadSlashsGlobal": false ,
+  "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "Lavalink.opgamer23.repl.co" ,
+        "port": 443,
+        "password": "JOKERMUSIC",
+        "secure": true
+      } 
+    
+    ]
+  },
+  "spotify": {
+    "clientSecret": "bdbfea29444c451d95c03581480e34ae",
+    "clientID": "be8b7b2b80c5464bb85bb30bb632e236"
+  },
+  "settings": {
+    "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": ":<:s_progress:866946355891929098>",
+    "leaveOnEmpty_Channel": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+  "links": {
+    "server": "https://discord.gg/ATccRnaBQu",
+    "opbotinv": "https://discord.com/api/oauth2/authorize?client_id=912000494438854676&permissions=543581272897&scope=bot%20applications.commands",
+    "opmusicinv": "https://discord.com/api/oauth2/authorize?client_id=912000494438854676&permissions=543581272897&scope=bot%20applications.commands",
+    "opmusic2inv": "https://discord.com/api/oauth2/authorize?client_id=912000494438854676&permissions=543581272897&scope=bot%20applications.commands",
+    "opmusic3inv": "https://discord.com/api/oauth2/authorize?client_id=912000494438854676&permissions=543581272897&scope=bot%20applications.commands",
+    "opmusicvote": "https://discord.gg/ATccRnaBQu"
+  },
+  "ownerIDS": [
+    "721629553134403591", 
+    "", 
+    "",
+    "",
+    "",
+    ""
+  ]
+      }
